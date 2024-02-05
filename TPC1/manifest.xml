@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <date>2024-02-05</date>
+        <author>
+            <id>A100750</id>
+            <name>DuarteAraújo</name>
+        </author>
+        <uc>
+            <sigla>EngWeb2024</sigla>
+            <name>Engenharia Web</name>
+        </uc>
+        </meta>
+        <resumo>
+            <p></p>
+            <p></p>
+            <p>Paragrafo com <url>link</url><texto>url embutido</texto></p>
+        </resumo>
+        <resultados>
+            <resultado>Resultado 1</resultado>
+            <resultado>Resultado 2</resultado>
+        </resultados>
+</doc>
