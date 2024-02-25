@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC2: Página HTML das Cidades</title>
+        <date>2024-02-25</date>
+        <author>
+            <id>A100750</id>
+            <nome>Duarte Araújo</nome>
+        </author>
+        <uc>
+            <sigla>EW2024</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+
+    <resumo>
+        <p>Criação de uma página com a listagem das diversas cidades do dataset, recorrendo a json-server.</p>
+        <p>Cada entrada do índice leva a uma página específica da cidade em questão, com as iformações da mesma, incluindo as suas conexões</p>
+        <p>A lista de conexões também aponta para as páginas das cidades respetivas.</p>
+    </resumo>
+
+    <resultados>
+        <resultado>Página principal com links para as páginas das cidades.</resultado>
+        <resultado>Páginas das cidades com todas as informações sobre as mesmas, como o número de habitantes, o distrito a que pertencem, uma descrição, as cidades a que estão ligadas e a distância até elas.</resultado>
+    </resultados>
+</doc>
