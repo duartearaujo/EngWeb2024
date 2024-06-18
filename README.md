@@ -12,5 +12,5 @@ UC do 3º ano de Engenharia Informática na Universidade do Minho
 
 **Fotografia:** 
 
-![Texto Alternativo](foto2.jpg)
+<img src="foto3.jpg" alt="foto3" width="350" height="400"/>
 
